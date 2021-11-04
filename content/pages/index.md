@@ -72,5 +72,6 @@ sections:
         style: button
     image_alt: Illustration
     bg_color: light
+    image: /images/logo2.JPG
 layout: advanced
 ---
