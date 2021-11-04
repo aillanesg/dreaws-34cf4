@@ -61,7 +61,6 @@ sections:
           - Social media
           - Product design
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
