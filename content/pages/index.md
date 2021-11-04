@@ -5,10 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: Optimizamos las tareas y procesos de tu empresa.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: |
+      Empresa de software
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
