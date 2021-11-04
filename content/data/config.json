@@ -16,7 +16,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "contactar",
                 "url": "/contact/",
                 "style": "button"
             }
